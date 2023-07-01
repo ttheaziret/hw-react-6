@@ -1,0 +1,22 @@
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.slider-container button {
+  background-color: #eaeaea;
+  color: #333;
+  border: none;
+  padding: 10px 15px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.slider-container img {
+  max-width: 300px; 
+  height: auto;
+}
+
+
